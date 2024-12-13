@@ -1,6 +1,6 @@
 import FooterThree from "@/layouts/footers/FooterThree"
 import BLockFeature from "./BLockFeature"
-import BLockFeatureFour from "./BLockFeatureFour"
+
 import BLockFeatureThree from "./BLockFeatureThree"
 import BLockFeatureTwo from "./BLockFeatureTwo"
 import FancyBanner from "./FancyBanner"
@@ -17,7 +17,7 @@ const HomeThree = () => {
          <BLockFeature />
          <BLockFeatureTwo />
          <BLockFeatureThree />
-         <BLockFeatureFour />
+
          <Feedback />
          <Pricing />
          <FancyBanner />
