@@ -3,10 +3,6 @@ import FooterOne from "@/layouts/footers/FooterOne"
 import Brand from "../home-1/Brand"
 import AppIntegration from "./AppIntegration"
 import BlockFeature from "./BlockFeature"
-git add .
-git commit -m "Updated PlanBHome component for deployment"
-git push origin main
-
 import BlockFeatureTwo from "./BlockFeatureTwo"
 import Contact from "./Contact"
 import Counter from "./Counter"
