@@ -3,7 +3,6 @@ import FooterOne from "@/layouts/footers/FooterOne"
 import Brand from "../home-1/Brand"
 import AppIntegration from "./AppIntegration"
 import BlockFeature from "./BlockFeature"
-import BlockFeatureFour from "./BlockFeatureFour"
 import BlockFeatureTwo from "./BlockFeatureTwo"
 import Contact from "./Contact"
 import Counter from "./Counter"
@@ -23,7 +22,6 @@ const PlanBHome = () => {
          <Counter />
          <BlockFeatureTwo />
          <AppIntegration />
-         <BlockFeatureFour />
          <Feedback />
          <FAQ />
          <Contact />
