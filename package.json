@@ -28,7 +28,7 @@
     "react-paginate": "^8.2.0",
     "react-responsive-masonry": "^2.6.0",
     "react-toastify": "^10.0.6",
-    "sass": "^1.80.4",
+    "sass": "^1.83.0",
     "swiper": "^11.1.15",
     "yup": "^1.4.0"
   },
@@ -50,6 +50,8 @@
     "eslint-plugin-prettier": "^5.2.1",
     "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^5.1.0",
+    "husky": "^9.1.7",
+    "sass-loader": "^16.0.4",
     "typescript": "^5"
   },
   "main": "index.js",

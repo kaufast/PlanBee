@@ -1,6 +1,5 @@
 "use client"
 import Count from "@/components/common/Count";
-import VideoPopup from "@/modals/VideoPopup";
 import { useState } from "react";
 
 interface DataType {
@@ -94,13 +93,7 @@ const BlockFeatureThree = () => {
             </div>
          </div>
       </div>
-         {/* video modal start */}
-         <VideoPopup
-            isVideoOpen={isVideoOpen}
-            setIsVideoOpen={setIsVideoOpen}
-            videoId={"tUP5S4YdEJo"}
-         />
-         {/* video modal end */}
+
       </>
    )
 }

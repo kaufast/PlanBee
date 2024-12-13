@@ -1,6 +1,5 @@
 import BlockFeature from "./BlockFeature"
 import BreadCrumb from "./BreadCrumb"
-import Video from "./Video"
 import Brand from "@/components/homes/home-3/Brand"
 import FancyBanner from "@/components/homes/home-10/FancyBanner"
 import Feedback from "./Feedback"
@@ -13,7 +12,6 @@ const AboutThree = () => {
       <HeaderTen />
       <BreadCrumb />
       <BlockFeature />
-      <Video />
       <Feedback />
       <Brand />
       <FancyBanner />
