@@ -24,7 +24,7 @@ const feature_data: DataType[] = [
    {
       id: 3,
       icon: icon_3,
-      title: (<>Highly rated support from PlanB anytime.</>),
+      title: (<>Highly rated support from PlanBee anytime.</>),
    },
 ];
 
@@ -35,7 +35,7 @@ const BlockFeatureFour = () => {
             <div className="row">
                <div className="col-xxl-9 col-lg-8 m-auto">
                   <div className="title-ten text-center mb-55 lg-mb-20">
-                     <h2>Three Reasons Our <span className="position-relative z-1">Clients<span className="line" style={{ background: "#FFC92E" }}></span></span> Love About PlanB</h2>
+                     <h2>Three Reasons Our <span className="position-relative z-1">Clients<span className="line" style={{ background: "#FFC92E" }}></span></span> Love About PlanBee</h2>
                   </div>
                </div>
             </div>
